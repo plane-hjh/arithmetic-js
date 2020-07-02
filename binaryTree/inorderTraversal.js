@@ -12,9 +12,6 @@ const inorderTraversal = function (root, array) {
 }
 
 // 非递归
-// 左节点进栈，直至左节点为空的节点
-// 节点出栈，访问该节点
-// 右节点依次重复
 const inorderTravelUnRecur = function (root) {
   const _stack = []
   // 存放遍历后的数组
