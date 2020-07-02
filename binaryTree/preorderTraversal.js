@@ -12,10 +12,6 @@ const preorderTraversal = function (root, array = []) {
 }
 
 // 非递归实现
-// 取跟节点为目标节点，开始遍历
-// 1.访问目标节点
-// 2.左孩子入栈 -> 直至左孩子为空的节点
-// 3.节点出栈，以右孩子为目标节点，再依次执行1、2、3
 const preorderTraversalUnRecur = function (root) {
   const _stack = []
   const _result = []
