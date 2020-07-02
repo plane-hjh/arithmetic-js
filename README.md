@@ -4,3 +4,5 @@
 ## 二叉树
 
 + [二叉树的中序遍历](https://github.com/plane-hjh/arithmetic-js/blob/binaryTree/binaryTree/inorderTraversal.js)
+
++ [二叉树的前序遍历](https://github.com/plane-hjh/arithmetic-js/blob/master/binaryTree/preorderTraversal.js)
