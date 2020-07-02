@@ -10,3 +10,5 @@
 + [二叉树的后序遍历](https://github.com/plane-hjh/arithmetic-js/blob/master/binaryTree/preorderTraversal.js)
 
 + [二叉树的最大深度](./binaryTree/treeBigDepth.js)
+
++ [对称二叉树](./binaryTree/isSymmetricTree.js)
