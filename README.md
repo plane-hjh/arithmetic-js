@@ -1,5 +1,5 @@
 # arithmetic-js
-算法的javascript实现
+算法的javascript实现，每天学习一道算法题
 
 ## 二叉树
 
