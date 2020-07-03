@@ -18,3 +18,5 @@
 + [删除链表中的节点](./list/deleteListNode.js)
 
 + [删除链表的倒数第N个节点](./list/removeNthFromEndList.js)
+
++ [反转链表](./list/reverseList.js)
