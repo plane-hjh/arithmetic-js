@@ -36,4 +36,6 @@ const postorderTraversalUnRecur = function (root) {
       current = current.right
     }
   }
+
+  return _result
 } 
