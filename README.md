@@ -25,3 +25,5 @@
 + [合并两个有序链表](./list/mergeTwoLists.js)
 
 + [环形链表](./list/hasCycleList.js)
+
++ [回文链表](./list/isPalindromeList.js)
