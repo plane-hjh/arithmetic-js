@@ -22,5 +22,5 @@ const mergeTwoLists = function(l1, l2) {
     head.next = mergeTwoLists(l1, l2.next)
   }
 
-  return head
+  return head 
 }
