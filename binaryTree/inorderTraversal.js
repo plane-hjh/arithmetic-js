@@ -21,12 +21,16 @@ const inorderTravelUnRecur = function (root) {
 
   while (current || _stack.length > 0) {
     while (current) {
+      // 进栈，第一个元素是根节点，最后一个是首先要遍历的左节点
       _stack.push(current)
-      current = current.val
+      current = current.left
     }
 
+    // 从栈内取出节点
     current = _stack.pop()
     _result.push(current.val)
     current = current.right
   }
+
+  return _result
 }
