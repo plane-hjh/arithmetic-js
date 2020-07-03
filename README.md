@@ -20,3 +20,5 @@
 + [删除链表的倒数第N个节点](./list/removeNthFromEndList.js)
 
 + [反转链表](./list/reverseList.js)
+
++ [合并两个有序链表](./list/reverseList.js)
