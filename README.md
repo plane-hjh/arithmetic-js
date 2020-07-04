@@ -14,6 +14,8 @@
 
 + [对称二叉树](./binaryTree/isSymmetricTree.js)
 
++ [验证二叉搜索树](./binaryTree/isValidBST.js)
+
 ## 链表
 
 + [删除链表中的节点](./list/deleteListNode.js)
@@ -27,3 +29,5 @@
 + [环形链表](./list/hasCycleList.js)
 
 + [回文链表](./list/isPalindromeList.js)
+
+
