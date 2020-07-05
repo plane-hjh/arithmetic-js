@@ -30,4 +30,6 @@
 
 + [回文链表](./list/isPalindromeList.js)
 
+## 字符串
 
++ [反转字符串](./string/reverseString.js)
