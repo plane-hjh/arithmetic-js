@@ -37,3 +37,7 @@
 + [回文字符串](./string/isPalindromeString.js)
 
 + [最长公共前缀](./string/longestCommonPrefix.js)
+
+## 排序
+
++ [快速排序](./sort/quickSort.js)
