@@ -41,3 +41,5 @@
 ## 排序
 
 + [快速排序](./sort/quickSort.js)
+
++ [归并排序](./sort/mergeSort.js)

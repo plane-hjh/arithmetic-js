@@ -52,3 +52,7 @@ function quickSort(arr, left, right) {
 
   return arr      //数组只包含1或0个元素时(即left>=right)，递归终止
 }
+
+
+// 时间复杂度 O(nlogn)
+// 空间复杂度 O(logn)~O(n)
