@@ -43,3 +43,5 @@
 + [快速排序](./sort/quickSort.js)
 
 + [归并排序](./sort/mergeSort.js)
+
++ [冒泡排序](./sort/bubbleSort.js)
