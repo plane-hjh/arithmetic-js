@@ -2,6 +2,10 @@
 
 算法的javascript实现，每天学习一道算法题
 
+## 数组
+
++ [两个数组的交集 II](./arrayintersect.js)
+
 ## 二叉树
 
 + [二叉树的中序遍历](./binaryTree/inorderTraversal.js)
