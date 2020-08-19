@@ -6,6 +6,10 @@
 
 + [两个数组的交集 II](./array/intersect.js)
 
++ [查询数组中有没有比它前面元素都大,比它后面的元素都小的数,没有打印-1,有显示其索引。要求时间复杂度和空间复杂度最大都是O(N)](./array/getIndexFromArray.js)
+
++ [判断子集](./array/isSubSet.js)
+
 ## 二叉树
 
 + [二叉树的中序遍历](./binaryTree/inorderTraversal.js)
