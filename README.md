@@ -4,7 +4,7 @@
 
 ## 数组
 
-+ [两个数组的交集 II](./arrayintersect.js)
++ [两个数组的交集 II](./array/intersect.js)
 
 ## 二叉树
 
