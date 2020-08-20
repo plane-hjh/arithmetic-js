@@ -14,6 +14,8 @@
 
 + [旋转数组](./array/rotate.js)
 
++ [存在重复数组](./array/containsDuplicate.js)
+
 ## 二叉树
 
 + [二叉树的中序遍历](./binaryTree/inorderTraversal.js)
