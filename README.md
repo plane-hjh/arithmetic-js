@@ -12,6 +12,8 @@
 
 + [买卖股票的最佳时机 II](./array/maxProfit.js)
 
++ [旋转数组](./array/rotate.js)
+
 ## 二叉树
 
 + [二叉树的中序遍历](./binaryTree/inorderTraversal.js)
