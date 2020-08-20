@@ -17,19 +17,19 @@
 // 向右旋转 2 步: [3,99,-1,-100]
 
 // 暴力枚举
-const rotate = function (nums, k) {
-  const n = nums.length;
-  let tmpEnd = 0;
-  let tmpPrev = 0;
-  for (let i = 0; i < k; i++) {
-    tmpEnd = nums[n - 1];
-    for (let r = 0; r < n; r++) {
-      tmpPrev = nums[r];
-      nums[r] = tmpEnd;
-      tmpEnd = tmpPrev;
-    }
-  }
-};
+// const rotate = function (nums, k) {
+//   const n = nums.length;
+//   let tmpEnd = 0;
+//   let tmpPrev = 0;
+//   for (let i = 0; i < k; i++) {
+//     tmpEnd = nums[n - 1];
+//     for (let r = 0; r < n; r++) {
+//       tmpPrev = nums[r];
+//       nums[r] = tmpEnd;
+//       tmpEnd = tmpPrev;
+//     }
+//   }
+// };
 
 const rotate = function (nums, k) {
   for (let i = 0; i < k; i++) {
