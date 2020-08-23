@@ -16,6 +16,10 @@
 
 + [存在重复数组](./array/containsDuplicate.js)
 
++ [只出现一次的数字](./array/singleNumber.js)
+
++ [两数之和](./array/twoSum.js)
+
 ## 二叉树
 
 + [二叉树的中序遍历](./binaryTree/inorderTraversal.js)
