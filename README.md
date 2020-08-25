@@ -58,6 +58,8 @@
 
 + [有效的字母异位词](./string/isAnagram.js)
 
++ [字符串中的第一个唯一字符](./string/firstUniqChar.js)
+
 ## 排序
 
 + [快速排序](./sort/quickSort.js)
