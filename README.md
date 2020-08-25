@@ -48,13 +48,15 @@
 
 + [回文链表](./list/isPalindromeList.js)
 
-## 字符串
+## 字符串（0825-0910）
 
 + [反转字符串](./string/reverseString.js)
 
 + [回文字符串](./string/isPalindromeString.js)
 
 + [最长公共前缀](./string/longestCommonPrefix.js)
+
++ [有效的字母异位词](./string/isAnagram.js)
 
 ## 排序
 
