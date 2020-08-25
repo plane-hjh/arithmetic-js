@@ -60,6 +60,8 @@
 
 + [字符串中的第一个唯一字符](./string/firstUniqChar.js)
 
++ [实现 strStr()](./string/strStr.js)
+
 ## 排序
 
 + [快速排序](./sort/quickSort.js)
